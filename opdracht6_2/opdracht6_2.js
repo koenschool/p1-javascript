@@ -1,5 +1,6 @@
+
 function verandertext()
 {
     console.log("Hello world!");
-    document.getElementById("p2").innerHTML = "Inhoud aangepast!";
+    document.getElementById("kop1").innerHTML = "Inhoud aangepast!";
 }
